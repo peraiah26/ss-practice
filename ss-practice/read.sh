@@ -1,5 +1,5 @@
 echo "Enter your best friend phone number:"
 
-read number
+read -s number
 
 echo "your best friend name is:$number"
