@@ -1,5 +1,5 @@
-echo "Enter your best friend:"
+echo "Enter your best friend phone number:"
 
-read name
+read number
 
-echo "your best friend name is:$name"
+echo "your best friend name is:$number"
